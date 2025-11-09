@@ -1,0 +1,4 @@
+﻿model,solid,lined
+BERT,74.4,64.8
+RoBERTa,81.9,65.5
+BART,73.1,63.5
